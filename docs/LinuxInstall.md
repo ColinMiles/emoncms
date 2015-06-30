@@ -114,7 +114,7 @@ Open settings.php in an editor:
 
 Update your database settings to use your new secure password:
 
-    $username = "USERNAME";
+    $username = "emoncms";
     $password = "YOUR_SECURE_PASSWORD_HERE";
     $server   = "localhost";
     $database = "emoncms";
