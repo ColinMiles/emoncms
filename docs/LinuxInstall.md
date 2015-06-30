@@ -32,6 +32,10 @@ For `<Directory />` and `<Directory /var/www/>` change `AllowOverride None` to `
     
     $ sudo nano /etc/apache2/sites-available/000-default
     
+or (raspberry pi)
+
+    $ sudo nano /etc/apache2/sites-available/default
+    
 or
 
     $ sudo nano /etc/apache2/apache2.conf
